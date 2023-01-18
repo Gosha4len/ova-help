@@ -72,7 +72,7 @@
 ```
 ![image](/screenshots/ssl8.png)
 ```
-11)  Спускаемся до пункта IPv4 Configuration - Enter
+11)  Спускаемся до пункта IPv4 Configuration - Enter :
 ```
 ![image](/screenshots/ssl9.png)
 ```
@@ -128,7 +128,7 @@
 ```
 ![image](/screenshots/con1.png)
 ```
-2) Вводим данные подключения - Connect
+2) Вводим данные подключения - Connect :
 ```
 ![image](/screenshots/con2.png)
 ```
@@ -157,17 +157,17 @@
 #### 6. Работа с snapshots (revert)
 1. Если вы создали только один snapshot
 ```
-1) Нажимаем на Revert this virtual machine to snapshot: Default
+1) Нажимаем на Revert this virtual machine to snapshot: Default :
 ```
 ![image](/screenshots/revert1.png)
 
 2. Если вы создали несколько snapshot`ов 
 ```
-1) Нажимаем на Manage snapshots for this virtual machine
+1) Нажимаем на Manage snapshots for this virtual machine :
 ```
 ![image](/screenshots/revert2.png)
 ```
-2) Нажимаете на нужный snapshot - Go To
+2) Нажимаете на нужный snapshot - Go To :
 ```
 ![image](/screenshots/revert3.png)
 ```
@@ -175,7 +175,7 @@
 ```
 ![image](/screenshots/revert4.png)
 ```
-4) Ждём пока стенд откатится
+4) Ждём пока стенд откатится :
 ```
 ![image](/screenshots/revert5.png)
 
