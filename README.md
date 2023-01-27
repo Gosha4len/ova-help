@@ -12,7 +12,7 @@
 
     2. "Ваше присутствие в" :
             Тут есть несколько вариантов:
-               1) 302/4 (Евсеева В.В.)
+                1) 302/4 (Евсеева В.В.)
                 2) 306/4 (Сулейманов С.В.)
 
         3. "Ваша просьба к преподавателям из пункта 2" 
@@ -58,49 +58,57 @@
 ```
 ![image](/screenshots/ssl5.png)
 ```
-6) Включаем виртуальную машину
-    7) Нажимаем F2 :
+6) Options:
+```
+![image](/screenshots/options1.png)
+```
+7) Выбираем операционную систему Vmware ESX - VMware ESXI 7 - OK
+```
+![image](/screenshots/options2.png)
+```
+8) Включаем виртуальную машину
+    9) Нажимаем F2 :
 ```
 ![image](/screenshots/ssl6.png)
 ```
-8) Вводим пароль (P@ssw0rd)
-    9) Нажимаем Enter : 
+10) Вводим пароль (P@ssw0rd)
+    11) Нажимаем Enter : 
 ```
 ![image](/screenshots/ssl7.png)
 ```
-10) Спускаемся до пункта Configure Management Network - Enter :
+12) Спускаемся до пункта Configure Management Network - Enter :
 ```
 ![image](/screenshots/ssl8.png)
 ```
-11)  Спускаемся до пункта IPv4 Configuration - Enter :
+13)  Спускаемся до пункта IPv4 Configuration - Enter
 ```
 ![image](/screenshots/ssl9.png)
 ```
-12) Выбираем Set static IPv4 address  and network configuration :
-    13) Выдаём "любой; свободный ip адрес; из той же подсети - в которой находится Default Gateway" (Н-Р: 192.168.202.100) : 
-        14) Выдаём маску подсети (Н-Р: 255.255.255.0) :
-            15) Прописываем Defauly Gateway (ip адрес роутера - через который вы сидите) :
-                16) Нажимам Enter :
+14) Выбираем Set static IPv4 address  and network configuration :
+    15) Выдаём "любой; свободный ip адрес; из той же подсети - в которой находится Default Gateway" (Н-Р: 192.168.202.100) : 
+        16) Выдаём маску подсети (Н-Р: 255.255.255.0) :
+            17) Прописываем Defauly Gateway (ip адрес роутера - через который вы сидите) :
+                18) Нажимам Enter :
 ```
 ![imnage](/screenshots/ssl10.png)
 ```
-17) Esc : 
+19) Esc : 
 ```
 ![image](/screenshots/ssl11.png)
 ```
-18) Y : 
+20) Y : 
 ```
 ![image](/screenshots/ssl12.png)
 ```
-19) Спускаемся до пункта Restart Management Network - Enter :
+21) Спускаемся до пункта Restart Management Network - Enter :
 ```
 ![image](/screenshots/ssl13.png)
 ```
-20) F11 :
+22) F11 :
 ```
 ![image](/screenshots/ssl15.png)
 ```
-21) Enter :
+23) Enter :
 ```
 ![image](/screenshots/ssl16.png)
 
