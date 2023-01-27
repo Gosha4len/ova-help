@@ -62,7 +62,7 @@
 ```
 ![image](/screenshots/options1.png)
 ```
-7) Выбираем операционную систему Vmware ESX - VMware ESXI 7 - OK
+7) Выбираем операционную систему Vmware ESX - VMware ESXI 7 - OK :
 ```
 ![image](/screenshots/options2.png)
 ```
@@ -80,7 +80,7 @@
 ```
 ![image](/screenshots/ssl8.png)
 ```
-13)  Спускаемся до пункта IPv4 Configuration - Enter
+13)  Спускаемся до пункта IPv4 Configuration - Enter :
 ```
 ![image](/screenshots/ssl9.png)
 ```
